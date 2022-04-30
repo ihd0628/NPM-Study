@@ -1,0 +1,14 @@
+{
+  "name": "@hoon0123/hi",
+  "version": "0.0.2",
+  "description": "package for npm Study",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "say-hi": "./cli.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
